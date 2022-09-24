@@ -1,4 +1,4 @@
-# Simple REST API to convert mp4 to mp3 files.
+# Simple REST API to convert mp4 to mp3 files using ffmpeg.
 
 * Download Dependencies via 'npm install' in root folder.
 * Serve index file via 'node server.js'
